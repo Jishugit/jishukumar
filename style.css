@@ -1,0 +1,28 @@
+.navbar{
+    list-style: none;
+    background-color:;
+}
+.navbar li{
+  display: inline;
+}
+
+.navbar li a{
+    text-decoration: none;1`
+}
+#box{
+    /* border , padding , margin */
+   /* border-width: 6px;
+    border-style: solid;
+    border-color: blue; */
+    border: 6px solid blue;
+    width: 250px;
+   /* padding-top: 40px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    padding-right: 40px; */
+   /* padding: 40px 50px 60px 70px;*/
+   padding: 60px;
+   /* margin-top:60px; */
+   
+
+}
